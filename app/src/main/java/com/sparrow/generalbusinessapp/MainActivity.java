@@ -7,6 +7,9 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
+// This app utilizes a Media Player to play "General Business Sounds",
+// which is actually Rick Astley's hit song, "Never Gonna Give You Up"
+
 public class MainActivity extends AppCompatActivity {
 
     private MediaPlayer mMediaPlayer;
